@@ -1,4 +1,3 @@
-```markdown
 # Drone Video Transport — README
 
 Repo: https://github.com/Catra2/drone
@@ -418,6 +417,3 @@ Enable GitHub Pages: Repo → Settings → Pages → Source: main → serve /upd
 ## 17) Glossary (one-liners)
 
 WebRTC: real-time audio/video/data (encrypted). RTP: media packet format. ICE/STUN/TURN: path finding/relay. GStreamer: media pipelines. OpenXR: PC-VR API (Quest via Link/Air Link). MIMO: multi-antenna Wi-Fi. Keyframe/IDR: full frame for quick recovery.
-
-
-```
